@@ -33,6 +33,7 @@ Pandas
 NumPy
 
 Matplotlib
+
 ## Findings
 
 Search ranking has a strong influence on website traffic.
@@ -44,6 +45,7 @@ Some pages have missing SEO information that should be completed.
 Better content structure can improve website performance.
 
 Data cleaning improves the reliability of analysis results.
+
 ## Business Insights
 
 Pages with higher search rankings receive more clicks.
@@ -57,12 +59,14 @@ Internal linking can be strengthened for pages with lower link scores.
 Improving title and meta description quality may increase click-through rates.
 
 Mobile optimization remains important due to significant mobile traffic.
+
 ## Outcome of Project
 
 Successfully analyzed an SEO website traffic dataset using Python by performing data cleaning, handling missing values, exploratory data analysis, and visualization. The project identified key SEO performance indicators and generated actionable business insights to improve website traffic, search engine rankings, and overall user engagement.
+
 ## Visualizations
 
-Bar Chart – Top Pages by Clicks
+1. Bar Chart – Top Pages by Clicks
 
 Displays the pages that receive the highest number of clicks from search engines.
 
@@ -98,24 +102,6 @@ Shows how response time varies across webpages.
 
 Observation: Most pages load consistently, while a few pages experience slower loading times.
 
-Business Insights
-Pages with higher search rankings receive more clicks.
-
-High bounce rate pages may require better content and user experience improvements.
-
-Optimizing page response time can improve SEO performance and user satisfaction.
-
-Internal linking can be strengthened for pages with lower link scores.
-
-Improving title and meta description quality may increase click-through rates.
-
-Mobile optimization remains important due to significant mobile traffic.
-## Conclusion
-
-This project demonstrates how Python can be used for effective SEO and website traffic analysis. By cleaning the data, exploring key metrics, and visualizing important trends, valuable insights were obtained to support better business decisions. The project highlights practical data analysis skills including data preprocessing, visualization, and interpretation, making it suitable for data analyst portfolios and internship projects.
-## Conclusion
-
-This project demonstrates how Python can be used for effective SEO and website traffic analysis. By cleaning the data, exploring key metrics, and visualizing important trends, valuable insights were obtained to support better business decisions. The project highlights practical data analysis skills including data preprocessing, visualization, and interpretation, making it suitable for data analyst portfolios and internship projects.
 ## Conclusion
 
 This project demonstrates how Python can be used for effective SEO and website traffic analysis. By cleaning the data, exploring key metrics, and visualizing important trends, valuable insights were obtained to support better business decisions. The project highlights practical data analysis skills including data preprocessing, visualization, and interpretation, making it suitable for data analyst portfolios and internship projects.
